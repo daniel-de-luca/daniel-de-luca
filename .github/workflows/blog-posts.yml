@@ -1,0 +1,23 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "17 5 * * *" # every day, 05:17 UTC
+  workflow_dispatch: # manual run from the Actions tab
+
+permissions:
+  contents: write # needed to commit the updated README
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # Actions pinned to commit SHAs (supply-chain hardening); tag in the comment
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # v1 = 1.9.7
+        with:
+          feed_list: "https://cyberquake.tech/rss.xml"
+          max_post_count: "5"
+          commit_message: "chore: latest CyberQuake blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"

@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 510" width="800" height="510" role="img" aria-labelledby="t d">
+<title id="t">Daniel De Luca — boot sequence</title>
+<desc id="d">A 486 DX2 boots, then a DOS prompt runs whoami: Daniel De Luca, hacker, technologist, builder, entrepreneur. Origins: 1993 first machine, a 486 DX2; 1999 first code and first website; 2002 the hacking journey begins; 2024 co-founded CyberQuake.</desc>
+<defs>
+<style>
+@font-face{font-family:'PlexMonoCQ';font-weight:400;src:url(data:font/woff2;base64,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) format('woff2')}
+@font-face{font-family:'PlexMonoCQ';font-weight:600;src:url(data:font/woff2;base64,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) format('woff2')}
+text{font-family:'PlexMonoCQ',ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace;font-size:26px;white-space:pre}
+.p4{font-weight:400} .p6{font-weight:600;letter-spacing:0}
+.sig{font-size:15px}
+@keyframes on{to{opacity:1}}
+@keyframes flash{0%,99.9%{opacity:1}100%{opacity:0}}
+@keyframes blink{0%{fill-opacity:1}50%{fill-opacity:0}}
+.e1{opacity:0;animation:flash 3.30s linear 0.25s forwards}
+.e2{opacity:0;animation:flash 3.10s linear 0.45s forwards}
+.e3{opacity:0;animation:flash 2.70s linear 0.85s forwards}
+.e4{opacity:0;animation:flash 2.45s linear 1.10s forwards}
+.e5{opacity:0;animation:flash 0.22s linear 1.10s forwards}
+.e6{opacity:0;animation:flash 0.22s linear 1.32s forwards}
+.e7{opacity:0;animation:flash 0.22s linear 1.54s forwards}
+.e8{opacity:0;animation:flash 0.22s linear 1.76s forwards}
+.e9{opacity:0;animation:flash 1.57s linear 1.98s forwards}
+.e10{opacity:0;animation:flash 1.42s linear 2.13s forwards}
+.e11{opacity:0;animation:flash 1.25s linear 2.30s forwards}
+.e12{opacity:0;animation:flash 1.10s linear 2.45s forwards}
+.e13{opacity:0;animation:flash 0.90s linear 2.65s forwards}
+.e14{opacity:0;animation:flash 0.60s linear 2.95s forwards}
+.e15{opacity:0;animation:flash 0.50s linear 3.05s forwards}
+.e16{opacity:0;animation:on 0s linear 3.75s forwards}
+.e17{opacity:0;animation:flash 0.14s linear 3.75s forwards}
+.e18{opacity:0;animation:on 0s linear 3.89s forwards}
+.e19{opacity:0;animation:flash 0.09s linear 3.89s forwards}
+.e20{opacity:0;animation:on 0s linear 3.98s forwards}
+.e21{opacity:0;animation:flash 0.09s linear 3.98s forwards}
+.e22{opacity:0;animation:on 0s linear 4.07s forwards}
+.e23{opacity:0;animation:flash 0.09s linear 4.07s forwards}
+.e24{opacity:0;animation:on 0s linear 4.16s forwards}
+.e25{opacity:0;animation:flash 0.09s linear 4.16s forwards}
+.e26{opacity:0;animation:on 0s linear 4.25s forwards}
+.e27{opacity:0;animation:flash 0.09s linear 4.25s forwards}
+.e28{opacity:0;animation:on 0s linear 4.34s forwards}
+.e29{opacity:0;animation:flash 0.09s linear 4.34s forwards}
+.e30{opacity:0;animation:on 0s linear 4.68s forwards}
+.e31{opacity:0;animation:on 0s linear 4.88s forwards}
+.e32{opacity:0;animation:on 0s linear 5.38s forwards}
+.e33{opacity:0;animation:flash 0.09s linear 5.38s forwards}
+.e34{opacity:0;animation:on 0s linear 5.47s forwards}
+.e35{opacity:0;animation:flash 0.05s linear 5.47s forwards}
+.e36{opacity:0;animation:on 0s linear 5.53s forwards}
+.e37{opacity:0;animation:flash 0.05s linear 5.53s forwards}
+.e38{opacity:0;animation:on 0s linear 5.58s forwards}
+.e39{opacity:0;animation:flash 0.05s linear 5.58s forwards}
+.e40{opacity:0;animation:on 0s linear 5.64s forwards}
+.e41{opacity:0;animation:flash 0.05s linear 5.64s forwards}
+.e42{opacity:0;animation:on 0s linear 5.69s forwards}
+.e43{opacity:0;animation:flash 0.05s linear 5.69s forwards}
+.e44{opacity:0;animation:on 0s linear 5.75s forwards}
+.e45{opacity:0;animation:flash 0.05s linear 5.75s forwards}
+.e46{opacity:0;animation:on 0s linear 5.80s forwards}
+.e47{opacity:0;animation:flash 0.05s linear 5.80s forwards}
+.e48{opacity:0;animation:on 0s linear 5.86s forwards}
+.e49{opacity:0;animation:flash 0.05s linear 5.86s forwards}
+.e50{opacity:0;animation:on 0s linear 5.91s forwards}
+.e51{opacity:0;animation:flash 0.05s linear 5.91s forwards}
+.e52{opacity:0;animation:on 0s linear 5.97s forwards}
+.e53{opacity:0;animation:flash 0.05s linear 5.97s forwards}
+.e54{opacity:0;animation:on 0s linear 6.02s forwards}
+.e55{opacity:0;animation:flash 0.05s linear 6.02s forwards}
+.e56{opacity:0;animation:on 0s linear 6.08s forwards}
+.e57{opacity:0;animation:flash 0.05s linear 6.08s forwards}
+.e58{opacity:0;animation:on 0s linear 6.13s forwards}
+.e59{opacity:0;animation:flash 0.05s linear 6.13s forwards}
+.e60{opacity:0;animation:on 0s linear 6.19s forwards}
+.e61{opacity:0;animation:flash 0.05s linear 6.19s forwards}
+.e62{opacity:0;animation:on 0s linear 6.24s forwards}
+.e63{opacity:0;animation:flash 0.05s linear 6.24s forwards}
+.e64{opacity:0;animation:on 0s linear 6.30s forwards}
+.e65{opacity:0;animation:flash 0.05s linear 6.30s forwards}
+.e66{opacity:0;animation:on 0s linear 6.60s forwards}
+.e67{opacity:0;animation:on 0s linear 6.60s forwards}
+.e68{opacity:0;animation:on 0s linear 6.80s forwards}
+.e69{opacity:0;animation:on 0s linear 6.80s forwards}
+.e70{opacity:0;animation:on 0s linear 7.00s forwards}
+.e71{opacity:0;animation:on 0s linear 7.00s forwards}
+.e72{opacity:0;animation:on 0s linear 7.20s forwards}
+.e73{opacity:0;animation:on 0s linear 7.20s forwards}
+.e74{opacity:0;animation:on 0s linear 7.60s forwards}
+.e75{opacity:0;animation:on 0s linear 7.60s forwards,blink 1.06s steps(1) 7.60s infinite}
+@media (prefers-reduced-motion:reduce){
+  .tr{animation:none!important;opacity:0!important}
+  .fin{animation:none!important;opacity:1!important}
+}
+</style>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" fill-opacity="0.028"/></pattern>
+</defs>
+<rect x="0.5" y="0.5" width="799" height="509" rx="14" fill="#0C0C0F" stroke="#26262E"/>
+<text class="e1 p4 tr" x="48.0" y="74" fill="#8E8E96">CQ-BIOS rev.1993</text>
+<text class="e2 p4 tr" x="48.0" y="112" fill="#8E8E96">(C) 1993-2026 Daniel De Luca</text>
+<text class="e3 p4 tr" x="48.0" y="188" fill="#F2EFE9">CPU   486DX2-66</text>
+<text class="e4 p4 tr" x="48.0" y="226" fill="#F2EFE9">MEM</text>
+<text class="e5 p4 tr" x="141.6" y="226" fill="#F2EFE9">0640K</text>
+<text class="e6 p4 tr" x="141.6" y="226" fill="#F2EFE9">2048K</text>
+<text class="e7 p4 tr" x="141.6" y="226" fill="#F2EFE9">4096K</text>
+<text class="e8 p4 tr" x="141.6" y="226" fill="#F2EFE9">6144K</text>
+<text class="e9 p4 tr" x="141.6" y="226" fill="#F2EFE9">8192K</text>
+<text class="e10 p4 tr" x="235.2" y="226" fill="#FF4D2E">OK</text>
+<text class="e11 p4 tr" x="48.0" y="264" fill="#F2EFE9">HDD   C:</text>
+<text class="e12 p4 tr" x="188.4" y="264" fill="#8E8E96">........</text>
+<text class="e13 p4 tr" x="328.8" y="264" fill="#FF4D2E">OK</text>
+<text class="e14 p4 tr" x="48.0" y="340" fill="#8E8E96">Booting from C:\ ...</text>
+<rect class="e15 cur tr" x="48.0" y="382" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e16 p4 fin" x="48.0" y="74" fill="#FF4D2E">C:\&gt;</text>
+<rect class="e17 cur tr" x="126.0" y="78" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e18 p4 fin" x="126.0" y="74" fill="#F2EFE9">w</text>
+<rect class="e19 cur tr" x="141.6" y="78" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e20 p4 fin" x="141.6" y="74" fill="#F2EFE9">h</text>
+<rect class="e21 cur tr" x="157.2" y="78" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e22 p4 fin" x="157.2" y="74" fill="#F2EFE9">o</text>
+<rect class="e23 cur tr" x="172.8" y="78" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e24 p4 fin" x="172.8" y="74" fill="#F2EFE9">a</text>
+<rect class="e25 cur tr" x="188.4" y="78" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e26 p4 fin" x="188.4" y="74" fill="#F2EFE9">m</text>
+<rect class="e27 cur tr" x="204.0" y="78" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e28 p4 fin" x="204.0" y="74" fill="#F2EFE9">i</text>
+<rect class="e29 cur tr" x="219.6" y="78" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e30 p6 fin" x="48.0" y="112" fill="#F2EFE9">DANIEL DE LUCA</text>
+<text class="e31 p4 fin" x="48.0" y="150" fill="#8E8E96">HACKER. TECHNOLOGIST. BUILDER. ENTREPRENEUR.</text>
+<text class="e32 p4 fin" x="48.0" y="226" fill="#FF4D2E">C:\&gt;</text>
+<rect class="e33 cur tr" x="126.0" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e34 p4 fin" x="126.0" y="226" fill="#F2EFE9">t</text>
+<rect class="e35 cur tr" x="141.6" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e36 p4 fin" x="141.6" y="226" fill="#F2EFE9">y</text>
+<rect class="e37 cur tr" x="157.2" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e38 p4 fin" x="157.2" y="226" fill="#F2EFE9">p</text>
+<rect class="e39 cur tr" x="172.8" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e40 p4 fin" x="172.8" y="226" fill="#F2EFE9">e</text>
+<rect class="e41 cur tr" x="188.4" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e42 p4 fin" x="188.4" y="226" fill="#F2EFE9"> </text>
+<rect class="e43 cur tr" x="204.0" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e44 p4 fin" x="204.0" y="226" fill="#F2EFE9">o</text>
+<rect class="e45 cur tr" x="219.6" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e46 p4 fin" x="219.6" y="226" fill="#F2EFE9">r</text>
+<rect class="e47 cur tr" x="235.2" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e48 p4 fin" x="235.2" y="226" fill="#F2EFE9">i</text>
+<rect class="e49 cur tr" x="250.8" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e50 p4 fin" x="250.8" y="226" fill="#F2EFE9">g</text>
+<rect class="e51 cur tr" x="266.4" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e52 p4 fin" x="266.4" y="226" fill="#F2EFE9">i</text>
+<rect class="e53 cur tr" x="282.0" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e54 p4 fin" x="282.0" y="226" fill="#F2EFE9">n</text>
+<rect class="e55 cur tr" x="297.6" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e56 p4 fin" x="297.6" y="226" fill="#F2EFE9">s</text>
+<rect class="e57 cur tr" x="313.2" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e58 p4 fin" x="313.2" y="226" fill="#F2EFE9">.</text>
+<rect class="e59 cur tr" x="328.8" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e60 p4 fin" x="328.8" y="226" fill="#F2EFE9">t</text>
+<rect class="e61 cur tr" x="344.4" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e62 p4 fin" x="344.4" y="226" fill="#F2EFE9">x</text>
+<rect class="e63 cur tr" x="360.0" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e64 p4 fin" x="360.0" y="226" fill="#F2EFE9">t</text>
+<rect class="e65 cur tr" x="375.6" y="230" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="e66 p4 fin" x="48.0" y="264" fill="#8E8E96">1993</text>
+<text class="e67 p4 fin" x="141.6" y="264" fill="#F2EFE9">First machine: a 486 DX2.</text>
+<text class="e68 p4 fin" x="48.0" y="302" fill="#8E8E96">1999</text>
+<text class="e69 p4 fin" x="141.6" y="302" fill="#F2EFE9">First code, first website.</text>
+<text class="e70 p4 fin" x="48.0" y="340" fill="#8E8E96">2002</text>
+<text class="e71 p4 fin" x="141.6" y="340" fill="#F2EFE9">The hacking journey begins.</text>
+<text class="e72 p4 fin" x="48.0" y="378" fill="#8E8E96">2024</text>
+<text class="e73 p4 fin" x="141.6" y="378" fill="#F2EFE9">Co-founded CyberQuake.</text>
+<text class="e74 p4 fin" x="48.0" y="454" fill="#FF4D2E">C:\&gt;</text>
+<rect class="e75 cur fin" x="126.0" y="458" width="15.6" height="4" fill="#FF4D2E"/>
+<text class="p4 sig" x="752" y="488" text-anchor="end" fill="#8E8E96" fill-opacity="0.7">danieldeluca.it</text>
+<rect x="1" y="1" width="798" height="508" rx="13" fill="url(#scan)" pointer-events="none"/>
+</svg>
