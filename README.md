@@ -21,8 +21,8 @@ I'm the CEO and co-founder of [CyberQuake](https://cyberquake.tech), where cyber
 - [C&#39;è un&#39;AI dentro il Rinascimento: l&#39;etica dell&#39;intelligenza artificiale è diventata una questione di governance](https://cyberquake.tech/blog/rinascimento-digitale-etica-ai/)
 - [Il Fattore Umano: Perché la Formazione Cybersecurity è l&#39;Investimento Definitivo per Sicurezza e Compliance](https://cyberquake.tech/blog/vantaggi-formazione-cybersecurity-compliance-sicurezza/)
 - [3,5 miliardi di account WhatsApp esposti. Facciamo chiarezza.](https://cyberquake.tech/blog/35-miliardi-di-account-whatsapp-esposti-facciamo-chiarezza/)
-- [Claude, Cina e il primo cyber-spionaggio orchestrato dall&#39;AI: cosa cambia (davvero) per le aziende](https://cyberquake.tech/blog/claude-cina-e-il-primo-cyber-spionaggio-orchestrato-dallai-cosa-cambia-davvero-per-le-aziende/)
-- [Fatture, ZIP con password e infostealer: perché l&#39;Italia resta nel mirino (e cosa fare in azienda)](https://cyberquake.tech/blog/fatture-zip-con-password-e-infostealer-perche-litalia-resta-nel-mirino-e-cosa-fare-in-azienda/)
+- [Claude, Cina e il primo cyber-spionaggio orchestrato dall’AI: cosa cambia &lpar;davvero&rpar; per le aziende](https://cyberquake.tech/blog/claude-cina-e-il-primo-cyber-spionaggio-orchestrato-dallai-cosa-cambia-davvero-per-le-aziende/)
+- [Fatture, ZIP con password e infostealer: perché l’Italia resta nel mirino &lpar;e cosa fare in azienda&rpar;](https://cyberquake.tech/blog/fatture-zip-con-password-e-infostealer-perche-litalia-resta-nel-mirino-e-cosa-fare-in-azienda/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Elsewhere
